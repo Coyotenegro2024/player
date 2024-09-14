@@ -4,7 +4,7 @@
         "manifestUrl": "https://is-tucuman.cdn.rcs.net.ar/mnp/telefe/output.mpd",
         "drmConfig": {
             "com.widevine.alpha": {
-                "serverURL": "",
+                "serverURL": "https://is-tucuman.cdn.rcs.net.ar/mnp/telefe/output.mpd",
                 "httpRequestHeaders": {
                     "X-Custom-Header": "valor"
                 }
