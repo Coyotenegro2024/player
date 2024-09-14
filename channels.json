@@ -1,7 +1,7 @@
 [
     {
         "name": "telefe",
-        "manifestUrl": "",
+        "manifestUrl": "  https://dash.akamaized.net/dash264/TestCasesIOP33/adapatationSetSwitching/5/manifest.mpd",
         "drmConfig": {
             "com.widevine.alpha": {
                 "serverURL": "https://dash.akamaized.net/dash264/TestCasesIOP33/adapatationSetSwitching/5/manifest.mpd",
