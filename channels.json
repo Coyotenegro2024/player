@@ -1,10 +1,10 @@
 [
     {
         "name": "telefe",
-        "manifestUrl": "https://is-tucuman.cdn.rcs.net.ar/mnp/telefe/output.mpd",
+        "manifestUrl": "",
         "drmConfig": {
             "com.widevine.alpha": {
-                "serverURL": "https://is-tucuman.cdn.rcs.net.ar/mnp/telefe/output.mpd",
+                "serverURL": "https://dash.akamaized.net/dash264/TestCasesIOP33/adapatationSetSwitching/5/manifest.mpd",
                 "httpRequestHeaders": {
                     "X-Custom-Header": "valor"
                 }
