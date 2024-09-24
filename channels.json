@@ -2,7 +2,8 @@
   "channels": [
     {
       "name": "ESPN",
-      "url": "https://path-to-channel/espn.mpd"
+      "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd|license_type=clearkey&license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf
+"
     },
     {
       "name": "FOX Sports",
