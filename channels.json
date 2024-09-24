@@ -2,8 +2,7 @@
   "channels": [
     {
       "name": "ESPN",
-      "url": "https://vipgoodlive-tvs.starcdn.live/Sky_Sports_Action_Live_TV/index.m3u8?tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjQ5LjEzLjE4LjU2IiwidXJsc3RyZWFtIjoiaHR0cHM6Ly9saXZlX3R2LnN0YXJjZG51cC5jb20vU2t5X1Nwb3J0c19BY3Rpb25fTGl2ZV9UVi9pbmRleC5tM3U4Iiwid2Vic2l0ZSI6Imh0dHBzOi8vYmVlc3BvcnQubmV0L2F1dGhvcml6ZS1jaGFubmVsIiwiaXNWSVAiOiIwIiwiZXhwIjoxNzIwNjEyNDg3fQ.qfS4sd9e-j8yEjoK70QQa1G1MJQFZ8JC-587J1AIN50&ref=https://beesport.net/|user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver&key= 2 rev&key= 250 Safari/533.3&referrer=https://player.goupnow.net/
-"
+      "url": "https://flv.intechmedia.net/live/ch109.m3u8"
     },
     {
       "name": "FOX Sports",
