@@ -1,0 +1,17 @@
+{
+    "channels": [
+      {
+        "name": "ESPN",
+        "url": "https://path-to-channel/espn.mpd"
+      },
+      {
+        "name": "FOX Sports",
+        "url": "https://path-to-channel/foxsports.mpd"
+      },
+      {
+        "name": "NBC News",
+        "url": "https://cdn.bitmovin.com/content/assets/art-of-motion-dash-hls-progressive/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd"
+      }
+    ]
+  }
+  
