@@ -2,7 +2,10 @@
     "channels": [
       {
         "name": "ESPN",
-        "url": "https://path-to-channel/espn.mpd"
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_wl/TELEFUTURO_C4.mpd",
+                k1: "5d2731cf8a59b73438ef59d88cd882bf",
+                k2: "3f412fa6368b7db4903588de695377e1" 
+            },
       },
       {
         "name": "FOX Sports",
