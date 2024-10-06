@@ -1,0 +1,14 @@
+[
+  {
+    "mpdLink": "https://edge-vod01-sl.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd",
+    "key1": "3b1b027dd011af20fd9956c16dc084fb",
+    "key2": "45f75aacf06593c9b693fe427c67e5b8",
+    "thumbnail": "https://github.com/rolnando-play/RP/blob/master/app/canalesImg/snt.png?raw=true"
+  },
+  {
+    "mpdLink": "https://edge-vod01-sl.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd",
+    "key1": "45f75aacf06593c9b693fe427c67e5b8",
+    "key2": "3b1b027dd011af20fd9956c16dc084fb",
+    "thumbnail": "https://github.com/rolnando-play/RP/blob/master/app/canalesImg/snt.png?raw=true"
+  }
+]
