@@ -7,12 +7,5 @@
             "url": "https://edge-live15-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd",
             "license_key": "dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b"
         }
-        {
-            "group": "GGUAY",
-            "logo": "https://deportestvhd.com/img/new/claro_sports.png",
-            "name": "Claro Sports",
-            "url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd",
-            "license_key": "74cdcb63ff3e4f3ce4da4243b6d1e1d8:9b8366fa8e9ebcdf4b349d6c9d528115"
-        }
     ]
 }
