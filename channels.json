@@ -1,11 +1,19 @@
 {
     "channels": [
         {
-            "group": "URUGUAY",
+            "group": "URUGUAY1",
             "logo": "https://television-libre.online/img/canal4uy.webp",
             "name": "Canal12",
             "url": "https://edge-live15-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd",
             "license_key": "dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b"
         }
+        {
+            "group": "PARAGUAY",
+            "logo": "https://television-libre.online/img/canal4uy.webp",
+            "name": "Canal12",
+            "url": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+            "license_key": "5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1"
+        }
+        
     ]
 }
